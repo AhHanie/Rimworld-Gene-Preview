@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <GenePreview.LoadingLabel>Gene Preview Loading</GenePreview.LoadingLabel>
+    <GenePreview.SettingsTitle>Gene Preview</GenePreview.SettingsTitle>
+    <GenePreview.Title>Pawn appearance preview</GenePreview.Title>
+    <GenePreview.Open>Preview</GenePreview.Open>
+    <GenePreview.NoColonists>No living colony pawns with genes are available.</GenePreview.NoColonists>
+    <GenePreview.Current>Current appearance</GenePreview.Current>
+    <GenePreview.Projected>Projected appearance</GenePreview.Projected>
+    <GenePreview.ClothingHidden>Clothing and headgear hidden. Scars and missing parts are not copied.</GenePreview.ClothingHidden>
+    <GenePreview.PreviousTip>Previous colony pawn.</GenePreview.PreviousTip>
+    <GenePreview.NextTip>Next colony pawn.</GenePreview.NextTip>
+    <GenePreview.RotateTip>Rotate the preview.</GenePreview.RotateTip>
+</LanguageData>
